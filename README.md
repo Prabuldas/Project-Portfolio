@@ -1,2 +1,2 @@
 # Project-Portfolio
-Data Analytica; And Data Science Project Project Details
+Data Analytica, And Data Science Project Project Details
